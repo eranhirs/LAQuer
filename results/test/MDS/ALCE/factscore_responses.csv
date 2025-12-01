@@ -1,0 +1,30 @@
+text,input_len,output_len,finish_reason_value,created,id,unique_id,scuSentCharIdx,sentence
+"- Judge Brett Kavanaugh faced intense scrutiny.
+- Judge Brett Kavanaugh faced intense scrutiny during his Senate Judiciary Committee confirmation hearings.
+- The scrutiny focused on Judge Brett Kavanaugh's views regarding presidential powers.
+- The scrutiny focused on contentious social issues.
+- The contentious social issues included abortion.
+- The contentious social issues included same-sex marriage.
+- The scrutiny focused on Judge Brett Kavanaugh's views regarding contentious social issues such as abortion and same-sex marriage.",4238,538,stop,1764536101,chatcmpl-ChijdE9ePQYrFZUriGMG8z7q7G8i3,test34,0,"Judge Brett Kavanaugh faced intense scrutiny during his Senate Judiciary Committee confirmation hearings, with a focus on his views regarding presidential powers and contentious social issues such as abortion and same-sex marriage ."
+"- Democrats expressed concerns about Kavanaugh's potential bias.
+- Democrats expressed concerns about Kavanaugh's potential bias towards President Trump.
+- Kavanaugh has past writings.
+- Kavanaugh's past writings suggest civil suits against presidents should be deferred until they leave office.
+- Kavanaugh's past writings suggest criminal investigations of presidents should be deferred until they leave office.",4248,413,stop,1764536105,chatcmpl-Chijh6erKZ1S3Slpm4ukmPx2NcoFZ,test34,233,"Democrats expressed concerns about Kavanaugh's potential bias towards President Trump, especially in light of his past writings suggesting that civil suits and criminal investigations of presidents should be deferred until they leave office ."
+"- Kavanaugh avoided direct answers on whether a sitting president must respond to a subpoena.
+- Kavanaugh avoided direct answers on how he would rule on cases related to the Russia investigation.
+- Kavanaugh cited judicial independence when avoiding direct answers.",4194,265,stop,1764536107,chatcmpl-Chijjwzlt1ULloJXSm5Y3mSiMNCg9,test34,476,"Kavanaugh avoided direct answers on whether a sitting president must respond to a subpoena or how he would rule on cases related to the Russia investigation, citing judicial independence ."
+"- The hearings highlighted a dramatic dispute.
+- There was a dramatic dispute over the release of confidential documents.
+- The confidential documents were from Kavanaugh's time in the Bush White House.
+- Sen. Cory Booker publicly released emails.
+- The public release of emails by Sen. Cory Booker was despite potential violations of Senate rules.",4239,348,stop,1764536108,chatcmpl-ChijkOp9Ot9HbGgd0vdYUJk9jmOy6,test34,665,"The hearings also highlighted a dramatic dispute over the release of confidential documents from Kavanaugh's time in the Bush White House, with Sen. Cory Booker publicly releasing emails despite potential violations of Senate rules ."
+"- These documents revealed Kavanaugh's past discussions on racial profiling.
+- These documents revealed Kavanaugh's past discussions on Roe v. Wade.
+- The documents further fueled Democratic concerns.",4134,200,stop,1764536111,chatcmpl-ChijnQBhGL6vMLCBmVEpgEvRMiqhb,test34,899,"These documents revealed Kavanaugh's past discussions on racial profiling and Roe v. Wade, further fueling Democratic concerns ."
+"- There were controversies around Kavanaugh.
+- Kavanaugh remained poised.
+- Kavanaugh avoided major missteps.
+- Major missteps could endanger Kavanaugh's confirmation.
+- Kavanaugh's confirmation appears likely.
+- Kavanaugh's confirmation appears likely if Republican senators remain united.",4183,290,stop,1764536112,chatcmpl-ChijoWkD4HVyLFfCxvTd16ICwYFVv,test34,1028,"Despite the controversies, Kavanaugh remained poised and avoided major missteps that could endanger his confirmation, which appears likely if Republican senators remain united ."

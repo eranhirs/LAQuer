@@ -1,0 +1,42 @@
+text,input_len,output_len,finish_reason_value,created,id,unique_id,scuSentCharIdx,sentence
+"- Brett Kavanaugh was a Supreme Court nominee.
+- There were confirmation hearings for Brett Kavanaugh.
+- The confirmation hearings for Brett Kavanaugh were marked by intense questioning.
+- The confirmation hearings for Brett Kavanaugh were marked by political drama.
+- During the hearings, Kavanaugh largely maintained his composure.
+- During the hearings, Kavanaugh avoided missteps.
+- Missteps during the hearings could jeopardize Kavanaugh's nomination.",4238,456,stop,1764535980,chatcmpl-ChihgPRZUaXuUaINnjgouK862nQ0k,test34,0,"The confirmation hearings for Supreme Court nominee Brett Kavanaugh were marked by intense questioning and political drama, with Kavanaugh largely maintaining his composure and avoiding missteps that could jeopardize his nomination."
+"- His views on presidential power are a key issue.
+- Abortion rights are a key issue.
+- Potential conflicts of interest regarding the Russia investigation are a key issue.",4147,171,stop,1764536032,chatcmpl-ChiiWEug3uoYENlxfsSug7ZU8uLSB,test34,233,"Key issues included his views on presidential power, abortion rights, and potential conflicts of interest regarding the Russia investigation."
+"- Kavanaugh emphasized his commitment to judicial independence.
+- Kavanaugh stated that ""no one is above the law.""
+- Kavanaugh stated that court orders are the final word in the U.S. legal system.",4175,196,stop,1764536034,chatcmpl-ChiiYvF4JDRmn4C5BAFbdqNG49uH1,test34,375,"Kavanaugh emphasized his commitment to judicial independence, stating that ""no one is above the law"" and that court orders are the final word in the U.S. legal system.
+
+"
+"- There was a significant point of contention.
+- The contention was about the release of documents.
+- The documents were from Kavanaugh's time in the George W. Bush White House.
+- Kavanaugh had a period of time in the George W. Bush White House.",4125,245,stop,1764536035,chatcmpl-ChiiZc0qkyET7XsI63IJBUBtx47uq,test34,544,A significant point of contention was the release of documents from Kavanaugh's time in the George W. Bush White House.
+"- Cory Booker is a Democratic Senator.
+- Mazie Hirono is a Democratic Senator.
+- Cory Booker released documents labeled ""committee confidential.""
+- Mazie Hirono released documents labeled ""committee confidential.""
+- The release of documents labeled ""committee confidential"" sparked debate over transparency.
+- The release of documents labeled ""committee confidential"" sparked debate over Senate rules.",4159,401,stop,1764536037,chatcmpl-ChiibhFaw0JLy2GaiHWN1zfppbgRg,test34,664,"Democratic Senators Cory Booker and Mazie Hirono released documents labeled ""committee confidential,"" sparking debate over transparency and Senate rules."
+"- There were threats of expulsion.
+- It was later revealed that the documents had been cleared for public release.
+- The documents had been cleared for public release.",4115,167,stop,1764536040,chatcmpl-Chiiev8y5PJqB4f5zP0Dc8pXNiCsC,test34,818,"Despite threats of expulsion, it was later revealed that the documents had been cleared for public release.
+
+"
+"- Kavanaugh refused to comment on hypothetical cases.
+- Roe v. Wade is a type of hypothetical case.
+- Kavanaugh refused to comment on hypothetical cases involving Roe v. Wade.
+- Kavanaugh took a noncommittal stance on recusing himself.
+- The cases related to the Russia probe are ones from which he may have to recuse himself.
+- Kavanaugh took a noncommittal stance on recusing himself from cases related to the Russia probe.
+- Kavanaugh's refusal to comment and his noncommittal stance were focal points for Democrats.",4217,519,stop,1764536041,chatcmpl-ChiifIFpEGpPuREfHHxKjV0nY3hbN,test34,927,"Kavanaugh's refusal to comment on hypothetical cases, such as those involving Roe v. Wade, and his noncommittal stance on recusing himself from cases related to the Russia probe, were focal points for Democrats."
+"- There are controversies surrounding Kavanaugh.
+- Kavanaugh is likely to be confirmed.
+- Kavanaugh's confirmation is contingent on Republican senators remaining united.
+- Kavanaugh's confirmation would present a significant shift to the right for the Supreme Court.",4175,266,stop,1764536046,chatcmpl-Chiik8P9zJ6beI3yxouGNP3kHI8BT,test34,1139,"Despite these controversies, Kavanaugh is likely to be confirmed if Republican senators remain united, presenting a significant shift to the right for the Supreme Court."

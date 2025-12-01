@@ -1,0 +1,47 @@
+topic,fact_idx,documentFile,docSpanOffsets,docSpanText,docSentCharIdx,docSentText,scuSentence
+test34,0,0.txt,"[(118, 193)]",Judge Brett M. Kavanaugh is appearing before the Senate Judiciary Committee,,,Judge Brett Kavanaugh faced intense scrutiny.
+test34,0,0.txt,"[(298, 383)]","Kavanaugh, a member of the U.S. Court of Appeals for the District of Columbia Circuit",,,Judge Brett Kavanaugh faced intense scrutiny.
+test34,0,1.txt,"[(1348, 1432)]","late into Thursday evening, Kavanaugh could take comfort in passing his biggest test",,,Judge Brett Kavanaugh faced intense scrutiny.
+test34,0,3.txt,"[(231, 322)]",Brett Kavanaugh weathered another long day of questions from the Senate Judiciary Committee,,,Judge Brett Kavanaugh faced intense scrutiny.
+test34,8,1.txt,"[(8168, 8256)]",Senate Democrats have suggested that Kavanaugh could be biased in favor of the President,,,Democrats expressed concerns about Kavanaugh's potential bias towards President Trump.
+test34,8,0.txt,"[(20398, 20462)]",Democrats raised concerns Thursday about the president's attacks,,,Democrats expressed concerns about Kavanaugh's potential bias towards President Trump.
+test34,8,0.txt,"[(20503, 20544)]",Kavanaugh's broad view of executive power,,,Democrats expressed concerns about Kavanaugh's potential bias towards President Trump.
+test34,8,0.txt,"[(34269, 34350)]",Supreme Court nominee Judge Brett Kavanaugh appears during a confirmation hearing,,,Democrats expressed concerns about Kavanaugh's potential bias towards President Trump.
+test34,8,3.txt,"[(868, 913)]","""No one is above the law,"" Kavanaugh replied.",,,Democrats expressed concerns about Kavanaugh's potential bias towards President Trump.
+test34,9,0.txt,"[(133, 1941)]","Kavanaugh is appearing before the Senate Judiciary Committee on Thursday as senators continue publicly interviewing President Trump's nominee for the Supreme Court.
+Kavanaugh, a member of the U.S. Court of Appeals for the District of Columbia Circuit, has a good chance of being confirmed when the Senate votes later this month. Under questioning from senators, he has so far touched on Roe v. Wade, said courts - not the president - are ""the final word"" and, as the hearing began, watched drama unfold regarding Sen. Cory Booker (D-N.J.)'s pledge to release confidential documents.
+Key moments from the hearing:
+  Drama over confidential emails....that were already cleared for public release
+  Kavanaugh advised against calling Roe ""settled law""
+  Kavanaugh elaborates on dissent on contraception and religious objections
+  Emails show more involvement with nominee than Kavanaugh previously suggested
+10:13 p.m.: Hearing adjourned
+More than 12 hours after the questioning began Thursday morning, Senate Judiciary Committee Chairman Charles E. Grassley (R-Iowa) adjourned the confirmation hearing for the day. Grassley closed the session by praising Kavanaugh for his ""compelling and credible"" answers, highlighted his history on the bench and said that ""unquestionably, you're qualified to serve on the Supreme Court of the United States.""
+""I hope a lot of people in this country have formed very positive views of you, as I have,"" Grassley said.
+Kavanaugh spent nearly 24 hours over two days answering questions, with many of the discussions on Thursday centering in some way or another on President Trump, who nominated Kavanaugh to the high court. Members of the Senate Judiciary Committee, including some Republicans, pressed Kavanaugh about his expansive views of presidential power and past writings",,,Kavanaugh has past writings.
+test34,9,3.txt,"[(6324, 6336)]",race-neutral,,,Kavanaugh has past writings.
+test34,9,0.txt,"[(19684, 19700)]",racial profiling,,,Kavanaugh has past writings.
+test34,9,0.txt,"[(19370, 19392)]",naked racial set-aside,,,Kavanaugh has past writings.
+test34,9,3.txt,"[(6239, 6258)]",security procedures,,,Kavanaugh has past writings.
+test34,9,0.txt,"[(27132, 27160)]","the ""views of legal scholars",,,Kavanaugh has past writings.
+test34,12,1.txt,"[(548, 627)]",Kavanaugh refused to say whether a sitting president must respond to a subpoena,,,Kavanaugh avoided direct answers on whether a sitting president must respond to a subpoena.
+test34,12,3.txt,"[(2680, 2789)]",epeatedly during the televised hearing about whether he would support opening the Supreme Court to TV cameras,,,Kavanaugh avoided direct answers on whether a sitting president must respond to a subpoena.
+test34,12,1.txt,"[(301, 356)]",He avoided ceding ground on the most contentious issues,,,Kavanaugh avoided direct answers on whether a sitting president must respond to a subpoena.
+test34,12,3.txt,"[(868, 912)]","""No one is above the law,"" Kavanaugh replied",,,Kavanaugh avoided direct answers on whether a sitting president must respond to a subpoena.
+test34,13,3.txt,"[(2191, 2343)]","Kavanaugh declined to answer a series of questions from Harris about issues that might come before the high court, including abortion, same-sex marriage",,,Kavanaugh avoided direct answers on how he would rule on cases related to the Russia investigation.
+test34,13,0.txt,"[(5764, 5852)]","Kavanaugh, nearly a day after their exchange late Wednesday, responded: ""The answer's no",,,Kavanaugh avoided direct answers on how he would rule on cases related to the Russia investigation.
+test34,16,0.txt,"[(16771, 16830)]",Democrats mounted dramatic protests Thursday over documents,,,There was a dramatic dispute over the release of confidential documents.
+test34,16,0.txt,"[(2273, 2321)]",the dramatic release of once-concealed documents,,,There was a dramatic dispute over the release of confidential documents.
+test34,16,0.txt,"[(17434, 17562)]","lfed much of the third day of Kavanaugh's confirmation hearings, with Booker vowing to disclose them in defiance of Senate rules",,,There was a dramatic dispute over the release of confidential documents.
+test34,21,1.txt,"[(6372, 6421)]",a previously unreleased 2003 email from Kavanaugh,,,These documents revealed Kavanaugh's past discussions on Roe v. Wade.
+test34,21,1.txt,"[(6483, 6620)]","raising the point of whether Roe v. Wade, the 1973 Supreme Court ruling that upheld the right to an abortion, was settled law of the land",,,These documents revealed Kavanaugh's past discussions on Roe v. Wade.
+test34,21,1.txt,"[(7081, 7353)]","The draft, meant to be submitted under the name of ""high-profile, pro-choice"" women in support of a Bush judicial nominee, had said that ""it is widely understood accepted by legal scholars across the board that Roe v. Wade and its progeny are the settled law of the land.""",,,These documents revealed Kavanaugh's past discussions on Roe v. Wade.
+test34,21,3.txt,"[(7280, 7324)]",The New York Times reported on leaked emails,,,These documents revealed Kavanaugh's past discussions on Roe v. Wade.
+test34,21,3.txt,"[(7355, 7547)]","One is an email drafted by Kavanaugh in 2003, in which he questioned whether the Supreme Court's 1973 Roe v. Wade decision legalizing abortion should be described as ""settled law of the land.""",,,These documents revealed Kavanaugh's past discussions on Roe v. Wade.
+test34,22,1.txt,"[(4136, 4266)]",Democrats have repeatedly complained that the White House is withholding tens of thousands of documents relevant to the nomination,,,The documents further fueled Democratic concerns.
+test34,22,3.txt,"[(4215, 4307)]","For all the theatrics on both sides, the debate over documents fizzled by Thursday afternoon",,,The documents further fueled Democratic concerns.
+test34,26,1.txt,"[(24, 182)]",Kavanaugh emerged from two days of tough questioning in the Senate Judiciary Committee without making any obvious missteps that could imperil his confirmation,,,Major missteps could endanger Kavanaugh's confirmation.
+test34,26,0.txt,"[(12685, 12725)]","ssions.
+In 2004, during his confirmation",,,Major missteps could endanger Kavanaugh's confirmation.
+test34,27,1.txt,"[(1376, 1500)]",Kavanaugh could take comfort in passing his biggest test. If Republicans stick together he is almost certain to be confirmed,,,Kavanaugh's confirmation appears likely.
+test34,27,3.txt,"[(8414, 8477)]","Barring surprises, Kavanaugh appears likely to win confirmation",,,Kavanaugh's confirmation appears likely.

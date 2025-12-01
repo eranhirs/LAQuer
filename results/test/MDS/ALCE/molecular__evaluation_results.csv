@@ -1,0 +1,11 @@
+topic,level_1,fact_idx,entailment_result
+test34,0,0,True
+test34,1,8,True
+test34,2,9,True
+test34,3,12,True
+test34,4,13,False
+test34,5,16,False
+test34,6,21,True
+test34,7,22,False
+test34,8,26,False
+test34,9,27,True

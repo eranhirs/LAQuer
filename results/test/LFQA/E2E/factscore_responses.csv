@@ -1,0 +1,25 @@
+text,input_len,output_len,finish_reason_value,created,id,unique_id,scuSentCharIdx,sentence
+- Reparations are not typically considered a form of punishment.,4068,64,stop,1764595232,chatcmpl-Chy7M2WMqoiOOXj1zdOjuciVGOfE0,cce2a6711dfaf5980ddd34cfeb34a5e7517837b09e4cfb8f1b4343296530e8ac-neeva,0,Reparations are not typically considered a form of punishment.
+"- They are compensation.
+- They are given as compensation for an abuse.
+- They are given as compensation for an injury.
+- They are meant to address the needs of victims.
+- Victims are victims of severe human rights violations.
+- Victims are victims of other injustices.
+- They are meant to address the needs of victims of severe human rights violations.
+- They are meant to address the needs of victims of other injustices.",4164,423,stop,1764595234,chatcmpl-Chy7OL4bYi3O0P6iHtldrFwLp5rUO,cce2a6711dfaf5980ddd34cfeb34a5e7517837b09e4cfb8f1b4343296530e8ac-neeva,63,"They are understood as compensation given for an abuse or injury, meant to address the needs of victims of severe human rights violations or other injustices."
+"- Compensation is a measure included.
+- Restitution is a measure included.
+- Public acknowledgment is a measure included.
+- Guarantees of non-repetition are measures included.
+- These measures aim to acknowledge suffering.
+- These measures aim to offer redress.",4168,261,stop,1764595237,chatcmpl-Chy7RyStyRpArZovlSE4JYPpMxfuv,cce2a6711dfaf5980ddd34cfeb34a5e7517837b09e4cfb8f1b4343296530e8ac-neeva,222,"This includes measures like compensation, restitution, public acknowledgment, and guarantees of non-repetition, aiming to acknowledge suffering and offer redress."
+"- Reparations can involve the party responsible for harm.
+- The party responsible for harm can provide some form of compensation.
+- The primary goal of reparations is to heal victims.
+- The primary goal of reparations is to restore victims.
+- The primary goal of reparations is not to punish the perpetrator.",4188,308,stop,1764595239,chatcmpl-Chy7TOY7UtlqL42bTod0DO1avrvj8,cce2a6711dfaf5980ddd34cfeb34a5e7517837b09e4cfb8f1b4343296530e8ac-neeva,385,"While reparations can involve the party responsible for harm providing some form of compensation, the primary goal is to heal and restore victims, rather than punish the perpetrator."
+"- Punishment in a legal sense is about retribution.
+- Punishment in a legal sense is about incapacitation.
+- Legal punishment aims at protecting society.
+- Legal punishment aims at deterring future crimes.",4148,205,stop,1764595242,chatcmpl-Chy7WsHfw6OSk0dBW6fz5ZyRWu5Ms,cce2a6711dfaf5980ddd34cfeb34a5e7517837b09e4cfb8f1b4343296530e8ac-neeva,568,"In contrast, punishment in a legal sense is more about retribution and incapacitation, aimed at protecting society by deterring future crimes."

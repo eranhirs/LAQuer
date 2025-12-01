@@ -1,0 +1,6 @@
+transformers
+spacy
+pandas
+tqdm
+litellm
+nltk
