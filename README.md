@@ -33,7 +33,7 @@ Core steps:
 
 Quick start:
 - Ensure you have model outputs in a JSON file named `results.json` (examples are included in the `results/` directory).
-- Run the evaluation script:
+- Run the script:
 ```
 python3 scripts/run_all.py
 ```
